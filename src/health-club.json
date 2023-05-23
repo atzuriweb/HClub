@@ -1,0 +1,58 @@
+{
+  "appointments": [
+    {
+      "firstname": "Samuel",
+      "lastname": "Jackson",
+      "age": 34,
+      "phonenumber": 9123456789,
+      "email": "samuel@example.com",
+      "streetaddress": "123 Main St.",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "pincode": 10001,
+      "trainerpreference": "Female Trainer",
+      "physiotherapist": "Yes",
+      "packages": "600",
+      "inr": 2000,
+      "paisa": 20,
+      "id": 1
+    },
+    {
+      "firstname": "John",
+      "lastname": "Doe",
+      "age": 42,
+      "phonenumber": 9823456788,
+      "email": "john@example.com",
+      "streetaddress": "456 Maple St.",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "pincode": 60302,
+      "trainerpreference": "Male Trainer",
+      "physiotherapist": "No",
+      "packages": "700",
+      "inr": 4000,
+      "paisa": 10,
+      "id": 2
+    },
+    {
+      "firstname": "Matthew",
+      "lastname": "Smith",
+      "age": 24,
+      "phonenumber": 9723456789,
+      "email": "matthew@example.com",
+      "streetaddress": "789 Oak Ave.",
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA",
+      "pincode": 75201,
+      "trainerpreference": "Male Trainer",
+      "physiotherapist": "Yes",
+      "packages": "800",
+      "inr": 1000,
+      "paisa": 10,
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "appointments": [
+    {
+      "fname": "John",
+      "lname": "Doe",
+      "age": 30,
+      "phone": "1234567890",
+      "streetaddress": "123 Main St",
+      "city": "Exampleville",
+      "state": "Samplestate",
+      "country": "Countryland",
+      "pincode": "12345",
+      "trainerPreference": "John Smith",
+      "package": "Gold",
+      "weeks": 12,
+      "amount": 500,
+      "physioRequired": true,
+      "email": "johndoe@example.com"
+    },
+    {
+      "fname": "Jane",
+      "lname": "Smith",
+      "age": 25,
+      "phone": "9876543210",
+      "streetaddress": "456 Elm St",
+      "city": "Cityville",
+      "state": "Stateville",
+      "country": "Countryland",
+      "pincode": "54321",
+      "trainerPreference": "Sarah Johnson",
+      "package": "Silver",
+      "weeks": 8,
+      "amount": 300,
+      "physioRequired": false,
+      "email": "janesmith@example.com"
+    }
+  ]
+  
+}
